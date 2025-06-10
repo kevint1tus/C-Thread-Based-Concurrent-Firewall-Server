@@ -54,13 +54,4 @@ Run the provided test script:
 bash test.sh
 ```
 This will execute both interactive and basic test cases, starting the server and client, and checking expected outputs.
-
-## License
-MIT (add your preferred license here)
-
-## Author
-[Your Name] (replace with your name or GitHub handle)
-
 ---
-
-For more details, see the code and comments in `server.c` and `client.c`. 
